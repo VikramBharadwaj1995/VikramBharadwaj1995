@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @VikramBharadwaj1995
-- 👀 I’m interested in Machine Learning, Data Science and Analytics
-- 🌱 I’m currently learning decision theory and statistics
+- 👀 Specializing in COmputer Vision
+- 🌱 I’m currently working as a researcher at MCADS Lab under Ehsan ELhamifar.
 - 📫 How to reach me  - vikrambharadwaj1995@gmail.com
 
 <!---
