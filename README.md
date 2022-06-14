@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @VikramBharadwaj1995
 - 👀 Specializing in Computer Vision
-- 🌱 I’m currently working as a researcher at MCADS Lab under Ehsan Elhamifar.
+- 🌱 I’m currently working as a researcher at MCADS Lab under Prof. Ehsan Elhamifar;
+- 🌱 Also working on my thesis on Visual Correspondence in images and videos using Vision Transformers(ViT) under Prof. Huaizu Jiang.
 - 📫 How to reach me  - vikrambharadwaj1995@gmail.com
 
 <!---
