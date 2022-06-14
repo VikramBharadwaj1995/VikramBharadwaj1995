@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @VikramBharadwaj1995
-- 👀 Specializing in COmputer Vision
+- 👀 Specializing in Computer Vision
 - 🌱 I’m currently working as a researcher at MCADS Lab under Ehsan Elhamifar.
 - 📫 How to reach me  - vikrambharadwaj1995@gmail.com
 
