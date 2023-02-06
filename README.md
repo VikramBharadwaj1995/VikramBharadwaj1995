@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Vikram!
 - 👀 Specializing in Computer Vision
-- 🌱 I’m currently working as a researcher at MCADS Lab under Prof. Ehsan Elhamifar;
+- 🌱 I’m currently working as a researcher at MCADS Lab under Prof. Ehsan Elhamifar and Prof. Huaizu Jiang
 - 📫 How to reach me  - vikrambharadwaj1995@gmail.com
 
 <!---
